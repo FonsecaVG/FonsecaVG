@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por Tecnologia e seu desenvolv
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/victor-fonseca-victorfonseca/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vfonseca.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vfonseca.dev@gmail.com)
 
 
 ### Habilidades
